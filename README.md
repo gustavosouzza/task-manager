@@ -20,6 +20,16 @@
 - 📂 Carregamento automático ao abrir a aplicação
 - 🖥️ Interface gráfica amigável (GUI com Swing)
 
+📖 Tecnologias Utilizadas
+Java (JDK 8+)
+
+Java Swing (GUI)
+
+Manipulação de arquivos .txt
+
+IDE IntelliJ IDEA
+
+
 ---
 
 ## 🎬 Demonstração
@@ -49,15 +59,6 @@ cd seu-repositorio
 javac CadastroProduto.java
 java CadastroProduto
 
-
-📖 Tecnologias Utilizadas
-Java (JDK 8+)
-
-Java Swing (GUI)
-
-Manipulação de arquivos .txt
-
-IDE IntelliJ IDEA
 
 🧑‍💻 Autor
 Feito com 💻 por [Gustavo Gonçalves]
