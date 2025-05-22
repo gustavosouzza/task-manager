@@ -1,9 +1,9 @@
 # 🛒 Cadastro de Produtos - Java Swing
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio)
-![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
+![GitHub repo size](https://img.shields.io/github/repo-size/gxstavoqy/mini_sistema?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/gxstavoqy/mini_sistema)
+![GitHub language count](https://img.shields.io/github/languages/count/gxstavoqy/mini_sistema)
+![GitHub top language](https://img.shields.io/github/languages/top/gxstavoqy/mini_sistema)
 
 > Um sistema simples e funcional de cadastro de produtos utilizando **Java Swing**, com interface gráfica intuitiva e persistência de dados em arquivo `.txt`.
 
