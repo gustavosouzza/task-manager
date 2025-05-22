@@ -28,9 +28,6 @@
 ![](https://github.com/user-attachments/assets/45aae667-ab34-460a-9104-26571296ffa7)
 
 
-
-![Screenshot](assets/screenshot.png)
-
 ---
 
 ## 🚀 Como usar
