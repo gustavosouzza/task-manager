@@ -26,9 +26,15 @@
 
 ![](https://github.com/user-attachments/assets/45aae667-ab34-460a-9104-26571296ffa7)
 
-
 ---
 
+📁 mini_sistema/
+├── 📄 CadastroProduto.java     -> Código principal com a interface e lógica
+├── 📄 produtos.txt             -> Arquivo onde os dados são armazenados
+├── 📄 README.md                -> Este arquivo de descrição
+└── 📁 .idea/                   -> Configurações do projeto (IDE)
+
+---
 ## 🚀 Como usar
 
 ### 1. Pré-requisitos
