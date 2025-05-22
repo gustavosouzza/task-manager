@@ -1,6 +1,5 @@
 # 🛒 Cadastro de Produtos - Java Swing
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gxstavoqy/mini_sistema?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gxstavoqy/mini_sistema)
 ![GitHub language count](https://img.shields.io/github/languages/count/gxstavoqy/mini_sistema)
 ![GitHub top language](https://img.shields.io/github/languages/top/gxstavoqy/mini_sistema)
