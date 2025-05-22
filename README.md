@@ -25,7 +25,7 @@
 
 ## 🎬 Demonstração
 
-![Screenshot_5](https://github.com/user-attachments/assets/45aae667-ab34-460a-9104-26571296ffa7)
+![](https://github.com/user-attachments/assets/45aae667-ab34-460a-9104-26571296ffa7)
 
 
 
