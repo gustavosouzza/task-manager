@@ -26,3 +26,45 @@
 ## 🎬 Demonstração
 
 ![Screenshot_5](https://github.com/user-attachments/assets/45aae667-ab34-460a-9104-26571296ffa7)
+
+
+
+![Screenshot](assets/screenshot.png)
+
+---
+
+## 🚀 Como usar
+
+### 1. Pré-requisitos
+
+- Java JDK 8 ou superior instalado
+- Uma IDE (ex: IntelliJ IDEA, Eclipse)
+- Sistema operacional com interface gráfica (Windows, Linux, macOS)
+
+### 2. Executar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/gxstavoqy/seu-repositorio.git
+
+# Acesse o diretório
+cd seu-repositorio
+
+# Compile e execute na IDE ou via terminal:
+javac CadastroProduto.java
+java CadastroProduto
+
+
+📖 Tecnologias Utilizadas
+Java (JDK 8+)
+
+Java Swing (GUI)
+
+Manipulação de arquivos .txt
+
+IDE IntelliJ IDEA
+
+🧑‍💻 Autor
+Feito com 💻 por [Gustavo Gonçalves]
+
+
