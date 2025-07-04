@@ -50,7 +50,7 @@ IDE IntelliJ IDEA
 
 ```bash
 # Clone o repositório
-git clone https://github.com/gxstavoqy/seu-repositorio.git
+git clone https://github.com/gustavosouzza/UserRegistrationAPI.git
 
 # Acesse o diretório
 cd seu-repositorio
