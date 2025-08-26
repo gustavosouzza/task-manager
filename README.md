@@ -1,66 +1,51 @@
-# 🛒 Cadastro de Produtos - Java Swing
+# Product Registration - Java Swing
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gxstavoqy/mini_sistema)
-![GitHub language count](https://img.shields.io/github/languages/count/gxstavoqy/mini_sistema)
-![GitHub top language](https://img.shields.io/github/languages/top/gxstavoqy/mini_sistema)
+## Features
 
-> Um sistema simples e funcional de cadastro de produtos utilizando **Java Swing**, com interface gráfica intuitiva e persistência de dados em arquivo `.txt`.
+- Product registration with:
+  - Name
+  - Cost
+  - Desired profit (%)
+  - Quantity in stock
+  - Automatic calculation of **sales price**
+  - Saving products to archive `produtos.txt`
+  - Automatic loading when opening the application
+  - User-friendly graphical interface (GUI with Swing)
 
----
-
-## ✨ Funcionalidades
-
-- ✅ Cadastro de produtos com:
-  - Nome
-  - Custo
-  - Lucro desejado (%)
-  - Quantidade em estoque
-- 🧮 Cálculo automático do **preço de venda**
-- 💾 Salvamento dos produtos em arquivo `produtos.txt`
-- 📂 Carregamento automático ao abrir a aplicação
-- 🖥️ Interface gráfica amigável (GUI com Swing)
-
-📖 Tecnologias Utilizadas
+Technologies Used
 Java (JDK 8+)
 
 Java Swing (GUI)
 
-Manipulação de arquivos .txt
+File manipulation .txt
 
 IDE IntelliJ IDEA
 
 
 ---
 
-## 🎬 Demonstração
+## Demonstration
 
 ![](https://github.com/user-attachments/assets/45aae667-ab34-460a-9104-26571296ffa7)
 
 ---
 
-## 🚀 Como usar
+## How to use
 
-### 1. Pré-requisitos
+### 1. Pre-requisites
+- Java JDK 8 or higher installed
+- One IDE (ex: IntelliJ IDEA, Eclipse)
+- Operating system with graphical interface (Windows, Linux, macOS)
 
-- Java JDK 8 ou superior instalado
-- Uma IDE (ex: IntelliJ IDEA, Eclipse)
-- Sistema operacional com interface gráfica (Windows, Linux, macOS)
-
-### 2. Executar o projeto
+### 2. Execute the project
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/gustavosouzza/UserRegistrationAPI.git
 
-# Acesse o diretório
-cd seu-repositorio
+# Access the directory
+cd your-repository
 
-# Compile e execute na IDE ou via terminal:
+# Compile and run in the IDE or via terminal:
 javac CadastroProduto.java
 java CadastroProduto
-
-
-🧑‍💻 Autor
-Feito com 💻 por [Gustavo Gonçalves]
-
-
